@@ -1,5 +1,5 @@
 # ip-toolkit
-Simple IP shortcuts
+Simple IP shortcuts with Python
 
 <img src="e2.PNG">
 <img src="e1.png">
